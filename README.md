@@ -1,4 +1,4 @@
-<h1 align="center"> Tabela de Classificação </h1>
+<h1 align="center"> Tabela de Pontuação </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
