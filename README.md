@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Trata-se de um placar onde podemos inserir os nomes dos jogadores, as pontuações atuais e manipular outras ações dos jogadores. 
 
-- [Acesse o projeto finalizado, online](https://vivianearj.github.io/AluraFlix/)
+- [Acesse o projeto finalizado, online](https://vivianearj.github.io/Tabela-Pontuacao/)
